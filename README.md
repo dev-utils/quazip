@@ -19,6 +19,7 @@ Distributed under LGPL, full details in the COPYING file.
 Original ZIP package is copyrighted by Gilles Vollant, see
 quazip/(un)zip.h files for details, but basically it's the zlib license.
 
+https://www.cnblogs.com/charleechan/p/12144950.html
 
 Qt使用quazip库
 参考链接： https://blog.csdn.net/zhangxuechao_/article/details/83014473
